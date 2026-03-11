@@ -54,7 +54,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/5511999999999" className="flex items-center gap-2 text-slate-400 hover:text-cyan-400 text-sm transition-colors">
+                <a href="https://wa.me/5581996531374" className="flex items-center gap-2 text-slate-400 hover:text-cyan-400 text-sm transition-colors">
                   <MessageCircle className="w-4 h-4" />
                   WhatsApp
                 </a>

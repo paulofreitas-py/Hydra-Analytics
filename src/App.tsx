@@ -11,6 +11,7 @@ import Differentials from './components/Differentials';
 import FutureVision from './components/FutureVision';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
+import HydraAI from './components/HydraAI';
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
         <CTA />
       </main>
       <Footer />
+      <HydraAI />
     </div>
   );
 }
